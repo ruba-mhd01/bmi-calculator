@@ -1,0 +1,19 @@
+Vite:
+
+-js tool for front-end development
+-makes development through different fws by making faster compilation
+-to install vite package :
+       npm i vite
+-to create react vite application :       
+       npm create vite@latest
+-to run react vite application server
+       npm run dev       
+
+
+
+=>React State:
+
+-react states are memory of a component
+-state updatiom(change in state stored value) automatically reloads the component
+-to create state in a component,we need useState()
+useState->ract
